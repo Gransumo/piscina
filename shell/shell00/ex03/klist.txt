@@ -1,0 +1,5 @@
+Credentials cache: API:A41F8490-88D1-47A9-B155-A94C02762395
+        Principal: gcastro-@42MADRID.COM
+
+  Issued                Expires               Principal
+Sep 20 16:27:18 2021  Sep 21 02:27:11 2021  krbtgt/42MADRID.COM@42MADRID.COM
